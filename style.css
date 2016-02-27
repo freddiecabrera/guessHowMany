@@ -1,3 +1,21 @@
 body{
   background-color: #F07547;
 }
+
+div {
+  text-align:center;
+  display:block;
+}
+
+#line4 {
+  margin-top: 50px;
+}
+
+span{
+  margin-left: -90px;
+  font-size: 27px;
+}
+
+.selected {
+  border-bottom: thick solid red;
+}
